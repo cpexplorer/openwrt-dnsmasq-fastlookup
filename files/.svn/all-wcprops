@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lede-project/source/!svn/ver/37878/trunk/package/network/services/dnsmasq/files
+END
+dhcp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lede-project/source/!svn/ver/31632/trunk/package/network/services/dnsmasq/files/dhcp.conf
+END
+dnsmasqsec.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/lede-project/source/!svn/ver/37410/trunk/package/network/services/dnsmasq/files/dnsmasqsec.hotplug
+END
+dnsmasq.init
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lede-project/source/!svn/ver/37878/trunk/package/network/services/dnsmasq/files/dnsmasq.init
+END
+dnsmasq.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/lede-project/source/!svn/ver/21776/trunk/package/network/services/dnsmasq/files/dnsmasq.conf
+END
