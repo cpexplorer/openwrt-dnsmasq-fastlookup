@@ -1,2 +1,2 @@
 # openwrt-dnsmasq-fastlookup
-https://github.com/infinet/dnsmasq/
+Openwrt Makefile for https://github.com/infinet/dnsmasq/
