@@ -1,0 +1,5 @@
+--- a/VERSION
++++ b/VERSION
+@@ -1 +1 @@
+-$Format:%d$
++ (HEAD, v2.72-5-fastlookup-137dcbc95d9240e492c913f2217795b028be805e, fastlookup)
